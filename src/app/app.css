@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2rem;
+	color: #424244;
+	width: 100%;
+}
+
+.app {
+	width: 800px;
+	margin: 0 auto;
+}
+
+h3 {
+	margin: 0.5rem 0;
+	font-weight: 400;
+}
+
+button {
+	padding: 0.5rem;
+	font-size: 1.2rem;
+	margin: 0 0.25rem;
+}
